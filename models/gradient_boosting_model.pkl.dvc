@@ -1,0 +1,5 @@
+outs:
+- md5: 0b5c28ccc6aa243a63d061759455b2c5
+  size: 5056600
+  hash: md5
+  path: gradient_boosting_model.pkl
